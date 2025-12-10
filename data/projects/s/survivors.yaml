@@ -1,0 +1,11 @@
+version: 7
+name: survivors
+display_name: Survivors
+description: Survivors is a narrative‑driven entertainment project building a lore‑heavy universe via AAA‑style animation and interactive AI. It aims to launch a web series and a first NFT collection on MegaETH. The project promises immersive “fan experiences” linked to the NFT collection and upcoming media releases.
+websites:
+  - url: https://joinsurvivors.io/
+social:
+  twitter:
+    - url: https://x.com/joinsurvivors
+github:
+  - url: https://github.com/Lugyz/survivorstestscerc1155
